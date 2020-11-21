@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Arjun Tiwari
 
-<!--
-**arjun154/arjun154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href='https://www.linkedin.com/in/arjun-tiwari' target='_blank'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/linkedin.svg' width='24px' />
+</a>
+<a href='https://twitter.com/ArjunTi99903061' target='_blank'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/twitter.svg' width='24px' />
+</a>
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 I’m currently working on MERN Stack
+- 📫 How to reach me: arjuntiwari197@gmail.com
+- 📫 My Portfolio: [https://suhailmalik07.github.io/](https://arjun154.github.io/)
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1tRe-ULkxOUusrQ73iaeaRUmFk9xA3hbX/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun154&count_private=true)
