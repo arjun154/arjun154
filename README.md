@@ -10,7 +10,7 @@
 ### About Me
 - 🔭 I’m currently working on MERN Stack
 - 📫 How to reach me: arjuntiwari197@gmail.com
-- 📫 My Portfolio: [https://suhailmalik07.github.io/](https://arjun154.github.io/)
+- 📫 My Portfolio: [Portfolio](https://arjun154.github.io/)
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1tRe-ULkxOUusrQ73iaeaRUmFk9xA3hbX/view?usp=sharing)
 
 ![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun154&count_private=true)
