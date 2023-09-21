@@ -3,7 +3,7 @@
 <a href='https://www.linkedin.com/in/arjun-tiwari' target='_blank'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/linkedin.svg' width='24px' />
 </a>
-<a href='https://twitter.com/ArjunTi99903061' target='_blank'>
+<a href='https://twitter.com/arjun_tiwari_' target='_blank'>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@v3.12.1/icons/twitter.svg' width='24px' />
 </a>
 
